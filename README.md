@@ -1,4 +1,4 @@
-# string-edit.el [![Build Status](https://secure.travis-ci.org/magnars/string-edit.el.png)](http://travis-ci.org/magnars/string-edit.el)
+# VortexRings
 
 Avoid escape nightmares by editing strings in a separate buffer.
 
@@ -49,7 +49,7 @@ They are written in [Ecukes](http://ecukes.info), a Cucumber for Emacs.
 
 You'll find the repo at:
 
-    https://github.com/magnars/string-edit.el
+    https://github.com/magnars/VortexRings
 
 To fetch the test dependencies, install
 [cask](https://github.com/rejeep/cask.el) if you haven't already,
