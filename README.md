@@ -1,4 +1,4 @@
-# VortexRings
+# Irony
 
 Avoid escape nightmares by editing strings in a separate buffer.
 
