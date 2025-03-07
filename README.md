@@ -1,4 +1,4 @@
-# Irony
+# kissdooes
 
 Avoid escape nightmares by editing strings in a separate buffer.
 
